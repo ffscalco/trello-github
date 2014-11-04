@@ -29,3 +29,6 @@ This will start guard watching and running the tests on change.
 ###Example
 
 "Update docs to close 2."
+
+
+Documentation: http://www.neverstopbuilding.com/integrating-github-with-trello-with-heroku

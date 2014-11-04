@@ -1,13 +1,13 @@
-# This is a config file for the actual project itself
-# https://trello.com/b/ZTLnggjF/github-trello-example
 for:
-    'trello-github': '52bcd359836e999e6801ac61'
+    'residuos': '5457a426f37732b6e576195ds'
     rules:
     -
         verbs: [card, per]
+        move:
+            to: '5457a441ed9d1bc0e679f066'
         comment: true
     -
         verbs: [close, closes]
         move:
-            to: '52bcd359836e999e6801ac64'
+            to: '5457a445b07eb550b951d313'
         comment: true
